@@ -1,0 +1,104 @@
+Script for programming exercises for Lesson 3 (Zelle, Python, Chapter 2)
+
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python Convert.py
+This program will convert any Celsius temperature to Fahrenheit
+What is the Celsius temerature? 11
+The temperature is 51.8 degrees Fahrenheit.
+
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python Convert2.py
+This program will convert any Celsius temperature to Fahrenheit
+What is the Celsius temerature? 7
+The temperature is 44.6 degrees Fahrenheit.
+Press the <Enter> key to quit
+
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python avg3.py
+This program computes the average of three exam scores.
+Enter three scores separated by a coma 65, 92, 47
+The average of the scores is 68.0
+
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python avg3.py
+This program computes the average of three exam scores.
+Enter three scores separated by a coma: 65, 92, 34
+The average of the scores is 63.666666666666664
+
+Exercise 4: MOdify the convert.py program with a loop so that it executes 5 times before quitting. Each time through the loop, the program should get another temperature from the user and print it:
+
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python Convert3.py
+This program will convert any Celsius temperature to Fahrenheit
+What is the Celsius temerature? 2
+The temperature is 35.6 degrees Fahrenheit.
+What is the Celsius temerature? 3
+The temperature is 37.4 degrees Fahrenheit.
+What is the Celsius temerature? 4
+The temperature is 39.2 degrees Fahrenheit.
+What is the Celsius temerature? 5
+The temperature is 41.0 degrees Fahrenheit.
+What is the Celsius temerature? 6
+The temperature is 42.8 degrees Fahrenheit.
+Press the <Enter> key to quit
+
+Exercise 5: Odify the convert.py program so that it computes and prints a table of Celsius temperatures and the Fahrenheit equivalents every 10 degrees from 0 oC to 100 oC:
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python convert4.py
+This program will compute temperatures from Celsius to Fahrenheit
+0 degrees Celsius equals to 32.0 degrees Fahrenheit
+10 degrees Celsius equals to 50.0 degrees Fahrenheit
+20 degrees Celsius equals to 68.0 degrees Fahrenheit
+30 degrees Celsius equals to 86.0 degrees Fahrenheit
+40 degrees Celsius equals to 104.0 degrees Fahrenheit
+50 degrees Celsius equals to 122.0 degrees Fahrenheit
+60 degrees Celsius equals to 140.0 degrees Fahrenheit
+70 degrees Celsius equals to 158.0 degrees Fahrenheit
+80 degrees Celsius equals to 176.0 degrees Fahrenheit
+90 degrees Celsius equals to 194.0 degrees Fahrenheit
+
+Exercise 6: Modify the futval.py program so that the number of years is also a user input:
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python futval.py
+This program calculates the future value
+of an investment over a period of n years
+Enter the initial principal 100
+Enter the annual interest rate: 0.01
+Enter the number of years: 5
+The value in 5 years is 105.10100501
+
+Exercise 7: Suppose you invest a certain fixed amount each year. Modify the futval.py program so that it computes the total accumulation of your investment:
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python futval1.py
+This program calculates the future value
+of an investment over a period of n years
+Enter the initial principal 1000
+Enter the annual interest rate: 0.01
+Enter the number of years: 7
+Enter the amount you invest each year: 100
+The value in 7 years is 1793.48887317711
+
+Exercise 8: 
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python futval2.py
+This program calculates the future value
+of an investment over a period of n years, when the interest is accrued in n periods
+Enter the initial principal 3000
+Enter the period interest rate: .002
+Enter the number of times that the interest is compounded per yr: 5
+Enter the number of years: 10
+The value in 10 years is 3315.1816608907466
+
+Exercise 9:
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python convert.py
+This program will convert any Celsius temperature to Fahrenheit
+What is the Celsius temerature? 40
+The temperature is 104.0 degrees Fahrenheit.
+
+Exercise 10:
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python km_to_miles.py
+This program will convert kilometers to miles
+Enter the distance in kilometers: 4567
+4567 kilometers are 2831.54 miles
+# When I am more confortable with Python, I will add an if else function to conjugate the verb, so that it prints 
+"1 kilometer is 0.62 miles", and in all other cases "n kilometers are n miles"
+
+Exercise 11:Write a program to perform a unit conversion of your choosing:
+(base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python lek_to_trl.py
+This program will convert Albanian lek to Turkish lira
+Enter the amount in Albanian lek: 8795
+Enter current date: 2020/10/26
+Enter today's exchange rate from lek to trl: .077
+On 2020/10/26 8795 Albanian lek amount to 677.215 Turkish lira
+
