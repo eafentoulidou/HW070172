@@ -201,3 +201,86 @@ Enter the total of numbers to be summed: 1111111
 pi is approximately 3.141593553589839
 The difference between my calculation and pi is -9.000000460446245e-07
 
+Chapter 5
+Exercise 1
+Enter a date (mm/dd/yyyy): 10/02/2018
+The converted date is October 02, 2018
+
+Exercise 2
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex2.py"
+This program will return the 5-point quiz score as grade
+Enter the points (0-5): 3
+The grade is C
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex2.py"
+This program will return the 5-point quiz score as grade
+Enter the points (0-5): 5
+The grade is A
+
+Exercise 3
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex3.py"
+This program will return the 100-point quiz score as grade
+The grade is A
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020__MRomanov/HW070172/Lesson4/Chap5_Ex3.py"
+This program will return the 100-point quiz score as grade
+The grade is F
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex3.py"
+This program will return the 100-point quiz score as grade
+Enter the points (0-100): 83
+The grade is B
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex3.py"
+This program will return the 100-point quiz score as grade
+Enter the points (0-100): 54
+The grade is F
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex3.py"
+This program will return the 100-point quiz score as grade
+Enter the points (0-100): 68
+The grade is D
+
+Exercise 4
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap4_Exc4.py"                                                                       _
+This program will find the acronym of any phrase. 
+
+Enter a phrase: Angels are dispatched from Africa right now  
+ AADFARN
+
+Exercise 5
+This program calculates the numeric value of a name.                                                            _
+Enter your first name: Eirini
+608
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap4_Exc5.py"
+This program calculates the numeric value of a name.
+
+Enter your first name: eirini
+640
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap4_Exc5.py"
+This program calculates the numeric value of a name.
+Enter your first name: Julia
+501
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020__MRomanov/HW070172/Lesson4/Chap4_Exc5.py"
+This program calculates the numeric value of a name.
+
+Enter your first name: Alex
+394
+
+Exercise 6
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex6.py"
+This program calculates the numeric value of a name. 
+
+Enter your first name: Eirini
+Enter your last name: Afentoulidou
+1871
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex6.py"
+This program calculates the numeric value of a name. 
+
+Enter your first name: Julia
+Enter your last name: Leitgeb
+
+Exercise 7
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex7.py"
+This program encodes and decodes Caesar ciphers. 
+
+Enter the text you want to encode: Lets put the kids to bed and have some beer
+Enter key: 3
+uhhe#hprv#hydk#gqd#ghe#rw#vgln#hkw#wxs#vwhO 
+Lets put the kids to bed and have some beer
+1201

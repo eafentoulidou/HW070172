@@ -1,10 +1,8 @@
 ---
-title: |
-“The unspotted *dioptra* of prophecy”. A mirror metaphor in Byzantine literature
+title:  “The unspotted *dioptra* of prophecy”. A mirror metaphor in Byzantine literature
 author: Eirini Afentoulidou
 date: \today
-mainfont: Palatino
-bibliography: biblioMirrors.bib
+bibliography: Mirror.bib
 csl: cms-fullnote.csl
 ---
 
@@ -45,7 +43,7 @@ These examples are characteristic in as much as they demonstrate the emphasis By
 
 [^4]: Ἀπαύγασμα γάρ ἐστιν φωτὸς ἀιδίου καὶ ἔσοπτρον ἀκηλίδωτον τῆς τοῦ θεοῦ ἐνεργείας καὶ εἰκὼν τῆς ἀγαθότητος αὐτοῦ. Sapientia 7, 26, Douay–Rheims translation.
 
-[^5]: See Benakis 1982, 75-86.
+[^5]: See [@omeara_neoplatonism_1981], 75-86.
 
 [^6]: Ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ. Hebrews 1, 3. Trans.: King James Version.
 
