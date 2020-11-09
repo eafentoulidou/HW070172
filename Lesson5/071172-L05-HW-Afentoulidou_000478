@@ -1,0 +1,150 @@
+Chapter 6
+Exercise 1
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex1.py"
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some cows
+Ee i ee i oh
+With a moo moo here and a moo moo there
+Here a moo , there a moo
+Everywhere a moo moo
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some cats
+Ee i ee i oh
+With a miaw miaw here and a miaw miaw there
+Here a miaw , there a miaw
+Everywhere a miaw miaw
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some hens
+Ee i ee i oh
+With a cluck cluck here and a cluck cluck there
+Here a cluck , there a cluck
+Everywhere a cluck cluck
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some ducks
+Ee i ee i oh
+With a quak quak here and a quak quak there
+Here a quak , there a quak
+Everywhere a quak quak
+Old MacDonald had a farm
+Ee i ee i o
+And on his farm he had some lambs
+Ee i ee i oh
+With a bah bah here and a bah bah there
+Here a bah , there a bah
+Everywhere a bah bah
+
+Exercise 2
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex2.py"
+The ants go marching one by one
+hurrah! hurrah!
+The ants go marching one by one
+The ants go marching one by one
+The little one stops to suck his thumb
+And they all go marching down to the ground
+The ants go marching one by one
+The little one stops to suck his thumb
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching two by two
+hurrah! hurrah!
+The ants go marching two by two
+hurrah! hurrah!
+The ants go marching two by two
+The little one stops to tie his shoe
+And they all go marching down to the ground                                                                     _
+To get out of the rain, BOOM! BOOM! BOOM!
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex2.py"
+  File "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex2.py", line 26    
+    lyrics("ten", "shout """The End""")
+                              ^                                                                                 _
+SyntaxError: invalid syntax
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex2.py"
+The ants go marching one by one
+hurrah! hurrah!
+The ants go marching one by one
+hurrah! hurrah!
+The ants go marching one by one
+The little one stops to suck his thumb
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching two by two
+hurrah! hurrah!
+The ants go marching two by two
+hurrah! hurrah!
+The ants go marching two by two
+The little one stops to tie his shoe
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching three by three
+hurrah! hurrah!
+The ants go marching three by three
+hurrah! hurrah!
+The ants go marching three by three
+The little one stops to climb a tree
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching four by four
+hurrah! hurrah!
+The ants go marching four by four
+hurrah! hurrah!
+The ants go marching four by four
+The little one stops to shut the door
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching five by five
+hurrah! hurrah!
+The ants go marching five by five
+hurrah! hurrah!
+The ants go marching five by five
+The little one stops to take a dive
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching six by six
+hurrah! hurrah!
+The ants go marching six by six
+hurrah! hurrah!
+The ants go marching six by six
+The little one stops to pick up sticks
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching seven by seven
+hurrah! hurrah!
+The ants go marching seven by seven
+hurrah! hurrah!
+The ants go marching seven by seven
+The little one stops to pray to heaven
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching eight by eight
+hurrah! hurrah!
+The ants go marching eight by eight
+hurrah! hurrah!
+The ants go marching eight by eight
+The little one stops to roller skate
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching nine by nine
+hurrah! hurrah!
+The ants go marching nine by nine
+hurrah! hurrah!
+The ants go marching nine by nine
+The little one stops to check the time
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+The ants go marching ten by ten
+hurrah! hurrah!
+The ants go marching ten by ten
+hurrah! hurrah!
+The ants go marching ten by ten
+The little one stops to shout The End!
+And they all go marching down to the ground
+To get out of the rain, BOOM! BOOM! BOOM!
+
+Exercise 3
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex3.py"
+Enter the radius in cm: 3.2
+The surface area of a sphere with radius 3.2 is 128.67963509103794 cm2

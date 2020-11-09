@@ -91,8 +91,6 @@ Exercise 10:
 This program will convert kilometers to miles
 Enter the distance in kilometers: 4567
 4567 kilometers are 2831.54 miles
-# When I am more confortable with Python, I will add an if else function to conjugate the verb, so that it prints 
-"1 kilometer is 0.62 miles", and in all other cases "n kilometers are n miles"
 
 Exercise 11:Write a program to perform a unit conversion of your choosing:
 (base) C:\Users\Eirini\Documents\Digital HUmanities\WS_2020_MRomanov\Lesson_2\HW070172\Lesson_3>python lek_to_trl.py

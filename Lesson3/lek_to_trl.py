@@ -4,6 +4,11 @@ def main():
     date =input("Enter current date: ")
     rate = eval (input("Enter today's exchange rate from lek to trl: "))
     trl =  lek * rate
-    print("On", date, lek, "Albanian lek amount to", trl, "Turkish lira")
+    if lek == 1:
+        print("On", date, lek, "Albanian lek amounts to", trl, "Turkish lira")
+    else:
+        print("On", date, lek, "Albanian lek amount to", trl, "Turkish lira")
+        
+            
 
 main()
