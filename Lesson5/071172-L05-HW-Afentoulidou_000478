@@ -1,5 +1,5 @@
-Chapter 6
-Exercise 1
+# Chapter 6
+## Exercise 1
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex1.py"
 Old MacDonald had a farm
 Ee i ee i o
@@ -37,7 +37,7 @@ With a bah bah here and a bah bah there
 Here a bah , there a bah
 Everywhere a bah bah
 
-Exercise 2
+## Exercise 2
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex2.py"
 The ants go marching one by one
 hurrah! hurrah!
@@ -144,7 +144,50 @@ The little one stops to shout The End!
 And they all go marching down to the ground
 To get out of the rain, BOOM! BOOM! BOOM!
 
-Exercise 3
+## Exercise 3
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex3.py"
 Enter the radius in cm: 3.2
 The surface area of a sphere with radius 3.2 is 128.67963509103794 cm2
+
+## Exercise 4
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap6Ex4.py"
+Enter a number: 5
+The sum of the first 5 natural numbers is 15 and the sum of their cubes is 225
+
+
+# Chapter 7
+## Exercise 1
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap7_Ex1.py"
+This program will calculate the total wages for a week. 
+
+Enter the total of hours worked: 43.5
+Enter the hourly rate in €: 30
+The total wage for the week is 1357.5 €
+
+## Exercise 2
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap7_Ex2.py"
+This program will return the 5-point quiz score as grade
+Enter the points (0-5): 3
+The grade is C
+
+## Exercise 3
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap7_Ex3.py"
+This program will return the 100-point quiz score as grade
+Enter the points (0-100): 67
+The grade is D
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap7_Ex3.py"
+This program will return the 100-point quiz score as grade
+Enter the points (0-100): 92
+The grade is A
+
+## Exercise 4
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap7_Ex4.py"
+This program will classify students according to credits earned.
+Enter the number of credits: 18
+For 18 credits the status is Junior
+
+## Exercise 5
+PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson5/Chap7_Ex5.py"                                                                        _
+Enter the weight in pounds: 150
+Enter the height in inches: 70
+The BMI is 22.040816326530614 and this is healthy.
