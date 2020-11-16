@@ -1,17 +1,17 @@
-Exercise 1
+## Exercise 1
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Exc1.py"
 This program will calculate the volume and surface area of a sphere
 Radius in cm: 1.2
 The volume of a sphere with a radius of 1.2 cm is 7.238229473870882 cm3, and its surface area is 18.09557368467721 cm2.
 
-Exercise 2
+## Exercise 2
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex2.py"
 This program will calculate the cost per square inch of a circular pizza given its diameter and price
 Diameter in inches: 15
 Total price of pizza: 7.99
 The cost of a pizza that costs 7.99 dollars with a diameter of 15.0 inches is 0.04521415094415089 dollars per inch2
 
-Exercise 3
+## Exercise 3
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex3.py"
 This program will calculate the molecular weight of a carbohydrate in grams per mole
 Molecule to calculate: CO2
@@ -28,7 +28,7 @@ Number of carbon atoms in the molecule: 2
 Number of oxygen atoms in the molecule: 1
 The molecular weight of C2H6O is 46.06844 grams per mole
 
-Exercise 4
+## Exercise 4
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex4.py"
 This program will determine the distance to a lightning strike based on the time elapsed between the flash and 
 the sound of thunder
@@ -41,13 +41,13 @@ the sound of thunder
 Time elapsed in sec: 5.1
 The distance to the lightning strike is 1.0625 miles
 
-Exercise 5
+## Exercise 5
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex5.py"
 This program will calculate the cost of an order from the coffee shop Konditorei
 Coffee in pounds: 1.3
 The total cost of an order for 1.3 pounds coffee is 16.268 dollars
 
-Exercise 6
+## Exercise 6
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex6.py"
 This program will calculate the slope of a line through two non-vertical points
 Enter the coordinate x for point 1: 3.2
@@ -56,7 +56,7 @@ Enter the coordinate x for point 2: 2.3
 Enter the coordinate y for point 2: 1.2
 The slope of a line through points 3.2 * 5.1 and 2.3 * 1.2 is 4.333333333333331 %
 
-Exercise 7
+## Exercise 7
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex7.py"
 This program will calculate the distance between two points
 Enter the coordinate x for point 1: 3.8
@@ -65,7 +65,7 @@ Enter the coordinate x for point 2: 7.7
 Enter the coordinate y for point 2: 6.3
 The distance between points 3.8 * 9.1 and 7.7 * 6.3 is 4.801041553663121
 
-Exercise 8
+## Exercise 8
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex8.py"
 Enter the year: 1765
 The Gregorian epact for the year 1765 is 7
@@ -85,7 +85,7 @@ This program will calculate the Gregorian epact for a given year
 Enter the year: 1095
 The Gregorian epact for the year 1095 is 15
 
-Exercise 9
+## Exercise 9
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex9.py"
 This program will calculate the area of a triangle
 Enter the length of the side a: 3
@@ -93,14 +93,14 @@ Enter the length of the side b: 4
 Enter the length of the side c: 5
 The area of a triangle with side length 3 4 5 is 6.0
 
-Exercise 10
+## Exercise 10
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex10.py"
 This program will calculate the length of a ladder required to reach a given height when leaned against a house.
 Enter the height you want to reach in cm: 520
 Enter the angle of the leaning ladder in degrees: 50
 The length of the ladder must be 678.8117904527849 cm
 
-Exercise 11
+## Exercise 11
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex11.py"
 This program will calculate the sum of the first n numbers
 Enter a number: 4
@@ -110,7 +110,7 @@ This program will calculate the sum of the first n numbers
 Enter a number: 100
 The sum of the first 100 numbers is 5050
 
-Exercise 12
+## Exercise 12
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex12.py"
 This program will calculate the sum of the cubes of the first n numbers
 Enter a number: 4
@@ -124,7 +124,7 @@ This program will calculate the sum of the cubes of the first n numbers
 Enter a number: 132
 The sum of the cubes of the first 132 numbers is 775390
 
-Exercise 13
+## Exercise 13
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex13.py"
 This program will calculate the sum of a series of numbers entered by the user
 Enter the total of numbers to be summed: 3
@@ -148,7 +148,7 @@ Enter a number: 4
 Enter a number: 1
 The sum is 7
 
-Exercise 14
+## Exercise 14
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap3_Ex14.py"
 This program will calculate the average of a series of numbers entered by the user
 Enter the total of numbers, the average of which should be found: 4
@@ -165,7 +165,7 @@ Enter a number: 4
 Enter a number: 5
 The average is 3.6666666666666665
 
-Exercise 15
+## Exercise 15
 
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_202This program will approximate the value of pi
 Enter the total of numbers to be summed: 10
@@ -201,12 +201,12 @@ Enter the total of numbers to be summed: 1111111
 pi is approximately 3.141593553589839
 The difference between my calculation and pi is -9.000000460446245e-07
 
-Chapter 5
-Exercise 1
+# Chapter 5
+## Exercise 1
 Enter a date (mm/dd/yyyy): 10/02/2018
 The converted date is October 02, 2018
 
-Exercise 2
+## Exercise 2
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex2.py"
 This program will return the 5-point quiz score as grade
 Enter the points (0-5): 3
@@ -216,7 +216,7 @@ This program will return the 5-point quiz score as grade
 Enter the points (0-5): 5
 The grade is A
 
-Exercise 3
+## Exercise 3
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex3.py"
 This program will return the 100-point quiz score as grade
 The grade is A
@@ -236,14 +236,14 @@ This program will return the 100-point quiz score as grade
 Enter the points (0-100): 68
 The grade is D
 
-Exercise 4
+## Exercise 4
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap4_Exc4.py"                                                                       _
 This program will find the acronym of any phrase. 
 
 Enter a phrase: Angels are dispatched from Africa right now  
  AADFARN
 
-Exercise 5
+## Exercise 5
 This program calculates the numeric value of a name.                                                            _
 Enter your first name: Eirini
 608
@@ -262,7 +262,7 @@ This program calculates the numeric value of a name.
 Enter your first name: Alex
 394
 
-Exercise 6
+## Exercise 6
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex6.py"
 This program calculates the numeric value of a name. 
 
@@ -275,7 +275,7 @@ This program calculates the numeric value of a name.
 Enter your first name: Julia
 Enter your last name: Leitgeb
 
-Exercise 7
+## Exercise 7
 PS C:\Users\Eirini> & C:/Users/Eirini/Anaconda3/python.exe "c:/Users/Eirini/Documents/Digital HUmanities/WS_2020_MRomanov/HW070172/Lesson4/Chap5_Ex7.py"
 This program encodes and decodes Caesar ciphers. 
 
